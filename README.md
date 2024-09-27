@@ -24,4 +24,7 @@ EI refers to a person’s ability to recognize, understand, and manage their emo
 - data visualisation
 - exploratory data analysis
 
-  
+  ```SQL
+  SELECT * FROM TABLE1
+  WHERE CONDITION = TRUE
+  ```
