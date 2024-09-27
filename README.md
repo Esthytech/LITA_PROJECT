@@ -37,6 +37,14 @@ EI refers to a person’s ability to recognize, understand, and manage their emo
 
 ![Screenshot_20240920-080139_Gallery](https://github.com/user-attachments/assets/91a0d69e-797a-43c2-b52c-5533c689cb09)
 
+😃
+
+🚗
+
+| Heading 1 | Heading 2 | Heading 3 |
+|-----------|-----------|-----------|
+| Table 1   | Table 2   | Table 3   |
+
 
 
 
