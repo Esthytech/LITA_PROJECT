@@ -17,3 +17,11 @@ EI refers to a person’s ability to recognize, understand, and manage their emo
 - Ms Excel for data visualisation [download here](https//microsoft.com)
 - Sql for query
 - Githun [download here](https://www.microsoft,com)
+
+#### Data Cleaning and Visualization
+- data loading and inspection
+- data cleaning and preparation
+- data visualisation
+- exploratory data analysis
+
+  
