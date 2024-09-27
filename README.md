@@ -28,3 +28,5 @@ EI refers to a person’s ability to recognize, understand, and manage their emo
   SELECT * FROM TABLE1
   WHERE CONDITION = TRUE
   ```
+
+#### DATA VISUALISATIOM
