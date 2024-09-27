@@ -8,7 +8,12 @@ Emotional intelligence (EI) refers to a person’s ability to understand and man
 EI refers to a person’s ability to recognize, understand, and manage their emotions as well as their ability to understand others’ emotions.
 
 #### My data sources
-•	general mood
-•	self-expression
-•	emotional understanding
-•	emotion management
+- general mood
+- self-expression
+-	emotional understanding
+- emotion management
+
+##### Tools we have used
+- Ms Excel for data visualisation
+- Sql for query
+- Githun
