@@ -14,9 +14,9 @@ EI refers to a person’s ability to recognize, understand, and manage their emo
 - emotion management
 
 ##### Tools we have used
-- Ms Excel for data visualisation [download here](https//microsoft.com)
+- Ms Excel for data visualisation [download here](https://www.microsoft.com)
 - Sql for query
-- Githun [download here](https://www.microsoft,com)
+- Githun [download here](https://www.microsoft.com)
 
 #### Data Cleaning and Visualization
 - data loading and inspection
@@ -30,6 +30,7 @@ EI refers to a person’s ability to recognize, understand, and manage their emo
   ```
 
 #### DATA VISUALISATIOM
+
 
 
 
