@@ -1,6 +1,14 @@
+
 # LITA_PROJECT
 
 ## MY LITA JOURNEY PROGRESS
+
+- [My First Excel work](#my-first-excel-work)
+- [My data sources](#my-data-sources)
+- [Tools we have used](#tools-we-have-used)
+- [Data Cleaning and Visualization](#data-cleaning-and-visualization)
+- [DATA VISUALISATIOM](#data-visualisatiom)
+
 
 ### My First Excel work
 
